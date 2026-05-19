@@ -50,7 +50,7 @@ endmodule
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Naveen%20Sai%20Challa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student%20|%20VLSI%20Enthusiast%20|%20RTL%20Designer&descAlignY=55"/>
 
-# 👋 Hello, I'm Naveen Sai Challa
+# 👋 Hello, I'm Pyla Thanuja
 
 ### 🎓 Electronics & Communication Engineering Student  
 ### 💡 Passionate about VLSI • RTL Design • Embedded Systems • IoT
@@ -222,7 +222,7 @@ The system automatically processes edge sensor inputs and integrates cloud intel
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Thanuja-1522">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -230,7 +230,7 @@ The system automatically processes edge sensor inputs and integrates cloud intel
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:pylathanuja@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -242,7 +242,7 @@ The system automatically processes edge sensor inputs and integrates cloud intel
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Thanuja-1522&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 

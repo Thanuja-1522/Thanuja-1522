@@ -92,7 +92,7 @@ endmodule
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,python,arduino,git,github"/>
 
 </p>
 

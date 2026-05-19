@@ -1,17 +1,15 @@
 <div align="center">
 
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pyla%20Thanuja&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descColor=7eb8d4&descSize=18&color=0:0f2027,50:203a43,100:2c5364" 
-width="100%" 
-/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=Pyla+Thanuja" alt="Typing SVG"/>
+</a>
 
-<br><br>
+<h3>Electronics & Communication Engineering Student</h3>
+
+<br>
 
 <a href="https://git.io/typing-svg">
-<img 
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=VLSI+Design+Enthusiast;RTL+Designer;Embedded+Systems+Developer;IoT+Innovator;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Engineer" 
-alt="Typing SVG" 
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=VLSI+Design+Enthusiast;RTL+Designer;Embedded+Systems+Developer;IoT+Innovator;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Engineer" alt="Typing SVG"/>
 </a>
 
 <br><br>

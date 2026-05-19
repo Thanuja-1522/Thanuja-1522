@@ -79,7 +79,7 @@ endmodule
 ⚡ Focused on building efficient hardware systems with real-world applications.
 <div align="center">
 
-### 📊 Quick Information
+## 📊 Quick Information
 
 | 🎓 University | 📍 Location | 📈 CGPA | 🔭 Focus |
 | :--- | :--- | :--- | :--- |

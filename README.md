@@ -228,7 +228,7 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/Pyla Thanuja/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 

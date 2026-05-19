@@ -131,7 +131,7 @@ endmodule
 # 💼 Experience
 
 ## 📡 VLSI Engineering Intern
-### EduExpose | May 2026 – July 2026
+### EduExpose | May 2026 – June 2026
 
 - Developed synthesizable Verilog RTL modules
 - Worked on front-end digital design concepts

@@ -31,7 +31,7 @@
 ---
 
 
-# 👨‍💻 About Me
+# 👩‍💻 About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 

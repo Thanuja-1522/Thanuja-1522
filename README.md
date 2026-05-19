@@ -1,24 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pyla%20Thanuja&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descColor=7eb8d4&descSize=18&color=0:0f2027,50:203a43,100:2c5364" width="100%"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pyla%20Thanuja&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descColor=7eb8d4&descSize=18&color=0:0f2027,50:203a43,100:2c5364" 
+width="100%" 
+/>
 
-</div>
+<br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=VLSI+Design+Enthusiast;RTL+Designer;Embedded+Systems+Developer;IoT+Innovator;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Engineer" alt="Typing SVG" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=VLSI+Design+Enthusiast;RTL+Designer;Embedded+Systems+Developer;IoT+Innovator;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Engineer" 
+alt="Typing SVG" 
+/>
 </a>
 
-<br/><br/>
+<br><br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Thanuja-1522?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Thanuja-1522)
+<a href="https://github.com/Thanuja-1522">
+<img src="https://img.shields.io/github/followers/Thanuja-1522?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github"/>
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Thanuja-1522&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Thanuja-1522)
+<a href="https://github.com/Thanuja-1522">
+<img src="https://komarev.com/ghpvc/?username=Thanuja-1522&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
+</a>
 
-[![CGPA](https://img.shields.io/badge/CGPA-9.30%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/Thanuja-1522)
+<a href="https://github.com/Thanuja-1522">
+<img src="https://img.shields.io/badge/CGPA-9.30%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia"/>
+</a>
 
 </div>
 
 ---
+
 
 # 👨‍💻 About Me
 

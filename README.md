@@ -69,33 +69,36 @@ endmodule
 
 # 📊 Quick Information
 
-<table align="center">
+<table align="center" width="100%">
 
 <tr>
 
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🎓 University
-Aditya University
+<h3>🎓 University</h3>
+<p>Aditya University</p>
 
-### 📍 Location
-Andhra Pradesh, India
+<h3>📍 Location</h3>
+<p>Andhra Pradesh, India</p>
 
-### 📈 CGPA
-9.30 / 10
+<h3>📈 CGPA</h3>
+<p>9.30 / 10</p>
 
 </td>
 
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🔭 Current Focus
-- VLSI Design
-- Digital Electronics
-- RTL Verification
-- Embedded Systems
+<h3>🔭 Current Focus</h3>
 
-### 🎯 Degree
-B.Tech ECE
+<ul>
+<li>VLSI Design</li>
+<li>Digital Electronics</li>
+<li>RTL Verification</li>
+<li>Embedded Systems</li>
+</ul>
+
+<h3>🎯 Degree</h3>
+<p>B.Tech ECE</p>
 
 </td>
 

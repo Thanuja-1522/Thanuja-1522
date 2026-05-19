@@ -8,11 +8,11 @@
 
 <br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Thanuja-1522?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Thanuja-1522)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Thanuja-1522&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Thanuja-1522)
 
-[![CGPA](https://img.shields.io/badge/CGPA-9.30%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/YOUR_USERNAME)
+[![CGPA](https://img.shields.io/badge/CGPA-9.30%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/Thanuja-1522)
 
 </div>
 
@@ -208,11 +208,11 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thanuja-1522&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanuja-1522&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanuja-1522&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -222,7 +222,7 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Thanuja-1522">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -234,7 +234,7 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:pylathanuja@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 

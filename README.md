@@ -67,46 +67,33 @@ endmodule
 
 ---
 
-# 📊 Quick Information
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td valign="top" width="50%" style="padding-right: 20px; border: none;">
+      <h3 style="margin-top: 0;">🎓 University</h3>
+      <p>Aditya University</p>
 
-<table align="center" width="100%">
+      <h3>📍 Location</h3>
+      <p>Andhra Pradesh, India</p>
 
-<tr>
+      <h3>📈 CGPA</h3>
+      <p>9.30 / 10</p>
+    </td>
+    
+    <td valign="top" width="50%" style="padding-left: 20px; border: none;">
+      <h3 style="margin-top: 0;">🔭 Current Focus</h3>
+      <ul style="margin-top: 0; padding-left: 20px;">
+        <li>VLSI Design</li>
+        <li>Digital Electronics</li>
+        <li>RTL Verification</li>
+        <li>Embedded Systems</li>
+      </ul>
 
-<td valign="top" width="50%">
-
-<h3>🎓 University</h3>
-<p>Aditya University</p>
-
-<h3>📍 Location</h3>
-<p>Andhra Pradesh, India</p>
-
-<h3>📈 CGPA</h3>
-<p>9.30 / 10</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-<h3>🔭 Current Focus</h3>
-
-<ul>
-<li>VLSI Design</li>
-<li>Digital Electronics</li>
-<li>RTL Verification</li>
-<li>Embedded Systems</li>
-</ul>
-
-<h3>🎯 Degree</h3>
-<p>B.Tech ECE</p>
-
-</td>
-
-</tr>
-
+      <h3>🎯 Degree</h3>
+      <p>B.Tech ECE</p>
+    </td>
+  </tr>
 </table>
-
----
 
 # ⚡ Tech Stack & Skills
 

@@ -1,8 +1,11 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=Pyla+Thanuja" alt="Typing SVG"/>
-</a>
+</a> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Pyla%20Thanuja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 <h3>Electronics & Communication Engineering Student</h3>
 

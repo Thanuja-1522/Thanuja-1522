@@ -36,8 +36,6 @@
 
 # 👩‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
 ```verilog
 module Pyla_Thanuja (
 
@@ -81,6 +79,11 @@ endmodule
 
 ⚡ Focused on building efficient hardware systems with real-world applications.
 <div align="center">
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
 
 ## 📊 Quick Information
 

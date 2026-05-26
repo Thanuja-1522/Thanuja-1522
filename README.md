@@ -155,6 +155,8 @@ endmodule
 
 An advanced IoT-based smart transportation safety ecosystem designed to monitor bus conditions and provide real-time emergency alerts.
 
+---
+
 ## 🔥 Key Features
 
 - Real-time GPS tracking
@@ -164,6 +166,8 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 - Google Maps route visualization
 - React dashboard for monitoring
 - Flutter mobile application support
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -175,6 +179,12 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 - Flutter
 - Google Maps API
 - Gowin EDA
+
+---
+
+## 🔗 Project Link
+
+👉 [Click Here to View the Project](https://github.com/Thanuja-1522/Safe-Drive-Alert-System)
 
 ---
 

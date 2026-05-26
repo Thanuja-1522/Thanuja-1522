@@ -180,11 +180,11 @@ An advanced IoT-based smart transportation safety ecosystem designed to monitor 
 
 # 🏅 Certifications
 
-| Certification | Issuer |
-|---|---|
-| Semiconductor 101 | Cadence |
-| Digital IC Design Fundamentals | Cadence |
-| Verilog HDL Fundamentals | Cadence |
+| Certification | Issuer | Certificate |
+|---|---|---|
+| Semiconductor 101 | Cadence | [View Certificate](https://github.com/Thanuja-1522/Certifications/blob/main/Semiconductor%20101%20v1.0.pdf) |
+| Digital IC Design Fundamentals | Cadence | [View Certificate](https://github.com/Thanuja-1522/Certifications/blob/main/Digital%20IC%20Design%20Fundamentals%20v2.0.pdf) |
+| Verilog HDL Fundamentals | Cadence | [View Certificate](https://github.com/Thanuja-1522/Certifications/blob/main/Verilog%20Language%20and%20Application%20v28.0.pdf) |
 
 ---
 
